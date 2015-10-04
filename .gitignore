@@ -1,222 +1,150 @@
-EmployeeAdmin/target/MANIFEST.MF
-EmployeeAdmin/target/employeeadmim-1.5.0/EmployeeAdmin.css
-EmployeeAdmin/target/employeeadmim-1.5.0/EmployeeAdmin.html
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/0324A85FF80E2FEA87FD7CE43E2FFC37.cache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/2B6A2CD47E5371D080207B90892E1A21.cache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/79816D9D03A29DA9343E24228AFABC18.cache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/7E22838B226FD73B640B91D47A374872.gwt.rpc
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/AB6A067ACB0270B2A604035183709B77.cache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/CB369EE20F258E9BF1EF34FA8BB187B8.cache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/clear.cache.gif
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/compilation-mappings.txt
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/employeeadmin.devmode.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/employeeadmin.nocache.js
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/clean.css
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/clean_rtl.css
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/circles.png
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/corner.png
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/hborder.png
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/thumb_horz.png
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/thumb_vertical.png
-EmployeeAdmin/target/employeeadmim-1.5.0/employeeadmin/gwt/clean/images/vborder.png
-EmployeeAdmin/target/employeeadmim-1.5.0/META-INF/MANIFEST.MF
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/appengine-web.xml
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/web.xml
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/EmployeeAdmin.gwt.xml
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/Constants.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/EmployeeAdmin.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/EmployeeAdminEventBus.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/resources/Resources$EmployeeAdminCssStyles.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/resources/Resources.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/services/UserService.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/services/UserServiceAsync.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/shell/IShellView$IShellPresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/shell/IShellView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/shell/ShellPresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/shell/ShellView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/IUserListView$IUserListPresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/IUserListView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListPresenter$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListPresenter$2.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListPresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$10.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$11.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$2.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$3.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$4.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$5.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$6.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$7.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$8.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$9.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView$GetValue.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/list/UserListView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/IUserProfileView$IUserProfilePresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/IUserProfileView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfilePresenter$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfilePresenter$2.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfilePresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$2.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$3.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$4.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$5.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView$Driver.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/profile/UserProfileView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/IUserRoleView$IUserRolePresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/IUserRoleView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRolePresenter$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRolePresenter.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView$1.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView$2.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView$3.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView$4.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView$5.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/ui/user/role/UserRoleView.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyButton.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyLabel.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyListBox.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyPasswordTextBox.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyTable.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/impl/MyTextBox.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/IButton.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/ILabel.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/IListBox.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/ITable.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/ITextBox.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widget/interfaces/IWidget.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widgets/FieldContainer.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/client/widgets/FlowLayoutPanel.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/server/UserServiceImpl.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadmin/shared/dto/UserBean.class
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/aopalliance-1.0.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/gin-2.1.2.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/guice-3.0.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/guice-assistedinject-3.0.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/gwt-servlet-2.7.0.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/javax.inject-1.jar
-EmployeeAdmin/target/employeeadmim-1.5.0/WEB-INF/lib/mvp4g-1.5.0.jar
-EmployeeAdmin/target/test-classes/org/gwt4e/mvp4g/example/employeeadmin/EmployeeAdminJUnit.gwt.xml
-EmployeeAdmin/target/test-classes/org/gwt4e/mvp4g/example/employeeadmin/client/GwtTestEmployeeAdmin.class
-EmployeeAdminWithGXT/target/MANIFEST.MF
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/EmployeeAdminWithGXT.gwt.xml
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/Constants.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/EmployeeAdminWithGXT.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/EmployeeAdminWithGXTEventBus.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/resources/ImageResources.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/service/UserService.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/service/UserServiceAsync.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/shell/IShellView$IShellPresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/shell/IShellView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/shell/ShellPresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/shell/ShellView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/IUserListView$IUserListPresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/IUserListView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListPresenter$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListPresenter$2.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListPresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListView$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListView$2.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListView$3.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListView$UserBeanProperties.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/list/UserListView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/IUserProfileView$IUserProfilePresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/IUserProfileView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfilePresenter$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfilePresenter$2.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfilePresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView$2.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView$3.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView$4.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView$Driver.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/profile/UserProfileView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/IUserRoleView$IUserRolePresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/IUserRoleView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRolePresenter$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRolePresenter.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$1.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$2.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$3.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$4.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$5.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$6.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$Role.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView$RoleProperties.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/ui/user/role/UserRoleView.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/validators/EmailValidator.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/widgets/FieldContainer.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/widgets/FlowLayoutPanel.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/server/UserServiceImpl.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/shared/dto/UserBean.class
-EmployeeAdminWithGXT/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
-EmployeeAdminWithGXT/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
-EmployeeAdminWithGXT/target/test-classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/EmployeeAdminWithGXTJUnit.gwt.xml
-EmployeeAdminWithGXT/target/test-classes/org/gwt4e/mvp4g/example/employeeadminwithgxt/client/GwtTestEmployeeAdminWithGXT.class
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/EmployeeAdminWithGXT.css
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/EmployeeAdminWithGXT.html
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/0642FBB42EF143306D3D76CAC3DFDBD9.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/172EC44961185D532B1DC73C2A0BC564.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/1D4653B524560E485F91657380A70686.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/25BDC70A2A16984E9BA91D05F549EA83.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/2EF5B60A664C20829B955A76DCDE46F1.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/4F0AD64D9AFD71F7E5115B01131C7041.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/5DAC46272560D0E740356EE53548797C.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/7E57B2582E87BDFE85DEF8EC5CE587D5.cache.png
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/8D056F34305AE4682908F14C6AE9AFC9.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/9063E7B389FCB2F1514A729FD148F015.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/920FA38717EED59BF309A4882E2FC828.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/9498D03DAD683BB0962EA363CCD953B2.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/9819ED4DF8151490C857F4C868207A95.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/A1A592D9B36317AFC02AAA6C486005CE.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/A3DAD6B445BDC5231F051D6B3FBA3AD5.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/A66818B9ED5B6BDABE9042936EF16A18.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/AA75A0CB500663DC21126A72274655B7.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/blank.html
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/CD44F77B18E894E425FF49133080B9B3.gwt.rpc
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/clear.cache.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/clear.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/compilation-mappings.txt
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/D5ECF477A59FB645644540F71A0639B5.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/E033DCBA68994B47079BCD3C3B58408B.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/employeeadminwithgxt.devmode.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/employeeadminwithgxt.nocache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/F9B30F27DB4F8C2D6B20F3FADCDBA062.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/FDB931C75B8E827BA6C803D05D115CE8.cache.js
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/reset.css
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/button/arrow.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/button/arrowBottom.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/button/split.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/button/splitBottom.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/checked.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/col-move-bottom.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/col-move-top.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/dirty.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/grid3-hd-btn.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/grid3-hrow-over.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/grid3-special-col-bg.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/grid3-special-col-sel-bg.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/group-expand-sprite.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/invalid_line.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/row-check-sprite.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/row-expand-sprite.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/row-over.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/sort_asc.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/sort_desc.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/employeeadminwithgxt/base/images/grid/unchecked.gif
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/META-INF/MANIFEST.MF
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/appengine-web.xml
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/web.xml
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/aopalliance-1.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/gin-2.1.2.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/guice-3.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/guice-assistedinject-3.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/gwt-servlet-2.7.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/gxt-3.1.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/gxt-theme-neptune-3.1.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/javax.inject-1.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/json-20090211.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/mvp4g-1.5.0.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/validation-api-1.0.0.GA-sources.jar
-EmployeeAdminWithGXT/target/employeeadminwithgxt-1.5.0/WEB-INF/lib/validation-api-1.0.0.GA.jar
+# Created by https://www.gitignore.io/api/java,maven,eclipse,intellij,gwt
+
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+
+### Eclipse ###
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio
+
+*.iml
+
+## Directory-based project format:
+.idea/
+# if you remove the above rule, at least ignore the following:
+
+# User-specific stuff:
+# .idea/workspace.xml
+# .idea/tasks.xml
+# .idea/dictionaries
+
+# Sensitive or high-churn files:
+# .idea/dataSources.ids
+# .idea/dataSources.xml
+# .idea/sqlDataSources.xml
+# .idea/dynamic.xml
+# .idea/uiDesigner.xml
+
+# Gradle:
+# .idea/gradle.xml
+# .idea/libraries
+
+# Mongo Explorer plugin:
+# .idea/mongoSettings.xml
+
+## File-based project format:
+*.ipr
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+
+
+### GWT ###
+*.class
+
+# Package Files #
+*.jar
+*.war
+
+# gwt caches and compiled units #
+war/gwt_bree/
+gwt-unitCache/
+
+# boilerplate generated classes #
+.apt_generated/
+
+# more caches and things from deploy #
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
+
+#compilation logs
+.gwt/
+
+#caching for already compiled files
+gwt-unitCache/
+
+#gwt junit compilation files
+www-test/
+
+#old GWT (1.5) created this dir
+.gwt-tmp/
+
