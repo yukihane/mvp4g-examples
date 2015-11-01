@@ -11,7 +11,7 @@ import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
 //This presenter illustrates how you can test your presenter
 //by creating your own mock (without any external mock library)
-@Presenter(view = IUserRoleView.class)
+@Presenter(name = "userRolePresenter", view = IUserRoleView.class)
 public class UserRolePresenter
     extends BasePresenter<IUserRoleView, EmployeeAdminEventBus>
     implements IUserRoleView.IUserRolePresenter {

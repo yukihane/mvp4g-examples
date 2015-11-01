@@ -11,7 +11,7 @@ import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
 import java.util.List;
 
-@Presenter(view = IUserListView.class)
+@Presenter(name = "userListPresenter", view = IUserListView.class)
 public class UserListPresenter
     extends BasePresenter<IUserListView, EmployeeAdminEventBus>
     implements IUserListView.IUserListPresenter {
