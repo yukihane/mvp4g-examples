@@ -7,6 +7,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <modules>
+    <module>EmployeeAdmin</module>
+  </modules>
+
   <url>https://github.com/yukihane/mvp4g-examples/tree/feat/modularization</url>
 
   <properties>
