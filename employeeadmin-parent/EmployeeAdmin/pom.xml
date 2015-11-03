@@ -5,6 +5,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.github.yukihane.mvp4g</groupId>
+    <artifactId>employeeadmin-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+
   <groupId>org.gwt4e.mvp4g</groupId>
   <artifactId>employeeadmim</artifactId>
   <packaging>war</packaging>
@@ -19,39 +26,6 @@
     </license>
   </licenses>
 
-  <properties>
-    <aopalliance.version>1.0</aopalliance.version>
-    <asm.version>3.3.1</asm.version>
-    <gwt.version>2.7.0</gwt.version>
-    <gin.version>2.1.2</gin.version>
-    <guice.version>3.0</guice.version>
-    <javax.inject.version>1</javax.inject.version>
-    <mvp4g.version>1.5.0</mvp4g.version>
-
-    <!-- GWT needs at least java 1.6 -->
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <maven.compiler.target>1.7</maven.compiler.target>
-
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <!--<project.build.sourceDirectory>/src</project.build.sourceDirectory>-->
-    <!--<project.build.testSourceDirectory>/test</project.build.testSourceDirectory>-->
-
-    <!--<gwt.output>${basedir}/output</gwt.output>-->
-    <!--<gwt.gen>genSources</gwt.gen>-->
-    <!--<gwt.extra>extra</gwt.extra>-->
-  </properties>
-
-  <dependencyManagement>
-    <dependencies>
-      <dependency>
-        <groupId>com.google.gwt</groupId>
-        <artifactId>gwt</artifactId>
-        <version>${gwt.version}</version>
-        <type>pom</type>
-        <scope>import</scope>
-      </dependency>
-    </dependencies>
-  </dependencyManagement>
 
   <developers>
     <developer>
