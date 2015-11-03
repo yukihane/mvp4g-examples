@@ -100,6 +100,13 @@
         <artifactId>javax.inject</artifactId>
         <version>${javax.inject.version}</version>
       </dependency>
+
+      <dependency>
+        <groupId>com.github.yukihane.mvp4g</groupId>
+        <artifactId>base</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+
     </dependencies>
 
   </dependencyManagement>

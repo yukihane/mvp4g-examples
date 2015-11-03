@@ -12,6 +12,12 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.github.yukihane.mvp4g</groupId>
+      <artifactId>base</artifactId>
+      <scope>provided</scope>
+    </dependency>
+
+    <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-servlet</artifactId>
       <scope>runtime</scope>

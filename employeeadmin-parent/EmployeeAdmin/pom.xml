@@ -62,6 +62,12 @@
 
   <dependencies>
     <dependency>
+      <groupId>com.github.yukihane.mvp4g</groupId>
+      <artifactId>base</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
       <groupId>com.google.gwt</groupId>
       <artifactId>gwt-servlet</artifactId>
       <scope>runtime</scope>
