@@ -8,8 +8,9 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>EmployeeAdmin</module>
+    <module>base</module>
     <module>list</module>
+    <module>EmployeeAdmin</module>
   </modules>
 
   <url>https://github.com/yukihane/mvp4g-examples/tree/feat/modularization</url>
