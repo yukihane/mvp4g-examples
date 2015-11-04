@@ -72,6 +72,24 @@
       <version>0.0.1-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.github.yukihane.mvp4g</groupId>
+      <artifactId>role</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.yukihane.mvp4g</groupId>
+      <artifactId>profile</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.yukihane.mvp4g</groupId>
+      <artifactId>role</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>provided</scope>
+    </dependency>
 
     <dependency>
       <groupId>com.google.gwt</groupId>
