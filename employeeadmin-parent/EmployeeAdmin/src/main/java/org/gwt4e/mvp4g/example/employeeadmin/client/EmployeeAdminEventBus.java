@@ -1,6 +1,9 @@
 package org.gwt4e.mvp4g.example.employeeadmin.client;
 
 import org.gwt4e.mvp4g.example.employeeadmin.client.ui.shell.ShellPresenter;
+import org.gwt4e.mvp4g.example.employeeadmin.client.ui.user.list.UserListEventBus;
+import org.gwt4e.mvp4g.example.employeeadmin.client.ui.user.profile.UserProfileEventBus;
+import org.gwt4e.mvp4g.example.employeeadmin.client.ui.user.role.UserRoleEventBus;
 import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
 import com.google.gwt.user.client.ui.Widget;
@@ -14,7 +17,7 @@ import com.mvp4g.client.event.EventBus;
            historyOnStart = false)
 @Debug(logLevel = Debug.LogLevel.DETAILED)
 public interface EmployeeAdminEventBus
-    extends EventBus {
+    extends EventBus, UserListEventBus, UserProfileEventBus, UserRoleEventBus {
 
   @Start
   @Event(handlerNames = {"userProfilePresenter", "userRolePresenter", "userListPresenter"})
