@@ -5,14 +5,13 @@ import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.inject.Inject;
 import com.mvp4g.client.annotation.Presenter;
 import com.mvp4g.client.presenter.BasePresenter;
-import org.gwt4e.mvp4g.example.employeeadmin.client.EmployeeAdminEventBus;
 import org.gwt4e.mvp4g.example.employeeadmin.client.services.UserServiceAsync;
 import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
 
 @Presenter(name = "userProfilePresenter", view = IUserProfileView.class)
 public class UserProfilePresenter
-    extends BasePresenter<IUserProfileView, EmployeeAdminEventBus>
+    extends BasePresenter<IUserProfileView, UserProfileEventBus>
     implements IUserProfileView.IUserProfilePresenter {
 
   private UserBean user;

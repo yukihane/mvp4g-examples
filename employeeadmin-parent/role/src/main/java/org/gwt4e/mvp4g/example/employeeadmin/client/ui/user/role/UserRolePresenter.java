@@ -5,7 +5,6 @@ import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.inject.Inject;
 import com.mvp4g.client.annotation.Presenter;
 import com.mvp4g.client.presenter.BasePresenter;
-import org.gwt4e.mvp4g.example.employeeadmin.client.EmployeeAdminEventBus;
 import org.gwt4e.mvp4g.example.employeeadmin.client.services.UserServiceAsync;
 import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
@@ -13,7 +12,7 @@ import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 //by creating your own mock (without any external mock library)
 @Presenter(name = "userRolePresenter", view = IUserRoleView.class)
 public class UserRolePresenter
-    extends BasePresenter<IUserRoleView, EmployeeAdminEventBus>
+    extends BasePresenter<IUserRoleView, UserRoleEventBus>
     implements IUserRoleView.IUserRolePresenter {
 
   private UserBean user;

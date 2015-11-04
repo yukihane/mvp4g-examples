@@ -5,7 +5,6 @@ import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.inject.Inject;
 import com.mvp4g.client.annotation.Presenter;
 import com.mvp4g.client.presenter.BasePresenter;
-import org.gwt4e.mvp4g.example.employeeadmin.client.EmployeeAdminEventBus;
 import org.gwt4e.mvp4g.example.employeeadmin.client.services.UserServiceAsync;
 import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
@@ -13,7 +12,7 @@ import java.util.List;
 
 @Presenter(name = "userListPresenter", view = IUserListView.class)
 public class UserListPresenter
-    extends BasePresenter<IUserListView, EmployeeAdminEventBus>
+    extends BasePresenter<IUserListView, UserListEventBus>
     implements IUserListView.IUserListPresenter {
 
   @Inject
