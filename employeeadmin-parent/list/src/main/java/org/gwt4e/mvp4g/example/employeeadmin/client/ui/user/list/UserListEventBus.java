@@ -22,10 +22,16 @@ public interface UserListEventBus extends EventBus {
     @Event(forwardToParent = true)
     void createNewUser(UserBean userBean);
 
-    @Event(forwardToParent = true, handlers={UserListPresenter.class})
+    @Event(forwardToParent = true)
+    void preSelectUser(UserBean user);
+
+    @Event(handlers = { UserListPresenter.class })
     void selectUser(UserBean user);
 
-    @Event(forwardToParent = true, handlers={UserListPresenter.class})
+    @Event(forwardToParent = true)
+    void preUnselectUser();
+
+    @Event(handlers = { UserListPresenter.class })
     void unselectUser();
 
 }

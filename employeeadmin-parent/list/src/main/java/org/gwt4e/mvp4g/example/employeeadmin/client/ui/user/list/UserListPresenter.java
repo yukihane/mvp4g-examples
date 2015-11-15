@@ -43,7 +43,7 @@ public class UserListPresenter
 
       public void onSuccess(List<UserBean> result) {
         view.setUserList(result);
-        eventBus.unselectUser();
+        eventBus.preUnselectUser();
       }
     });
   }
@@ -71,6 +71,6 @@ public class UserListPresenter
 
   @Override
   public void doShowUser(UserBean user) {
-    eventBus.selectUser(user);
+    eventBus.preSelectUser(user);
   }
 }

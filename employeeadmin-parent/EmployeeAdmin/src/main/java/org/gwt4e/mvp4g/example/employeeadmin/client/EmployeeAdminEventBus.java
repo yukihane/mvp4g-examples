@@ -38,8 +38,14 @@ public interface EmployeeAdminEventBus
   @Event(forwardToModules = { UserListModule.class })
   public void showUserList();
 
+  @Event(handlers = MulticastEventHandler.class)
+  void preSelectUser(UserBean user);
+
   @Event(handlerNames = {"userProfilePresenter", "userRolePresenter"}, forwardToModules = { UserListModule.class })
   public void selectUser(UserBean user);
+
+  @Event(handlers = MulticastEventHandler.class)
+  void preUnselectUser();
 
   @Event(handlerNames = {"userProfilePresenter", "userRolePresenter"}, forwardToModules = { UserListModule.class })
   public void unselectUser();
