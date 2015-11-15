@@ -60,7 +60,7 @@ public class UserRolePresenter
                          public void onSuccess(UserBean result) {
                            view.clear();
                            view.disable();
-                           eventBus.selectUser(result);
+                           eventBus.preSelectUser(result);
                          }
                        });
   }
