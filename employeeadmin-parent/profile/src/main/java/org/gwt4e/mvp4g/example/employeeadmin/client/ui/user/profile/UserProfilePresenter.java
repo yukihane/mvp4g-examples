@@ -9,7 +9,7 @@ import org.gwt4e.mvp4g.example.employeeadmin.client.services.UserServiceAsync;
 import org.gwt4e.mvp4g.example.employeeadmin.shared.dto.UserBean;
 
 
-@Presenter(name = "userProfilePresenter", view = IUserProfileView.class)
+@Presenter(view = IUserProfileView.class)
 public class UserProfilePresenter
     extends BasePresenter<IUserProfileView, UserProfileEventBus>
     implements IUserProfileView.IUserProfilePresenter {
@@ -26,7 +26,7 @@ public class UserProfilePresenter
 
   @Override
   public void doCancel() {
-    eventBus.unselectUser();
+    eventBus.preUnselectUser();
   }
 
   @Override
@@ -40,7 +40,7 @@ public class UserProfilePresenter
 
                          @Override
                          public void onSuccess(UserBean result) {
-                           eventBus.unselectUser();
+                           eventBus.preUnselectUser();
                            eventBus.showUserList();
                          }
                        });
@@ -57,7 +57,7 @@ public class UserProfilePresenter
 
                          @Override
                          public void onSuccess(UserBean result) {
-                           eventBus.unselectUser();
+                           eventBus.preUnselectUser();
                            eventBus.showUserList();
                          }
                        });
